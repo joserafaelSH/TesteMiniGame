@@ -110,3 +110,17 @@ span:hover{
 }
 
 
+.ponto2{
+    margin: 3px;
+    width: 100px;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    height: 45px;
+}
+
+#fon3:hover{
+    background-color: #708090;
+    transition: 0.5s;
+    cursor: pointer;
+}

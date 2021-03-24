@@ -6,6 +6,12 @@ btnPlay.addEventListener("click", ()=>{
     
 })
 
+const btnReset = document.getElementById("fon3")
+btnReset.addEventListener("click", ()=>{
+    location.reload()
+    
+})
+
 var btndisplaycomb = document.getElementsByClassName("displaycombinacao")
 var leds = document.getElementsByClassName("ponto")
 iniciarJogo = {
